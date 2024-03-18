@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(153, 142, 142);
+}
+
+title{
+    background-color: rgb(0, 255, 55);
+}
+
+.duoc1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(158, 145, 145);
+    max-width: 20%;
+    padding-top: 20px;
+    padding-bottom: 15;
+    margin-top: 130px;
+}
+
+.duoc2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(158, 145, 145);
+    max-width: 20%;
+    padding-top: 20px;
+    padding-bottom: 15;
+    margin-top: 130px;
+}
+
+.btn-1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 20%;
+    padding-top: 20px;
+    padding-bottom: 15;
+    margin-top: 130px;
+    cursor: pointer;
+}
+
+ 
+
+.btn-{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 20%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 130px;
+}
